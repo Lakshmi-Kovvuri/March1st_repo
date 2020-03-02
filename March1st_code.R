@@ -2,3 +2,5 @@
 
 a<-rnorm(100)
 plot (a)
+b<-rnorm(50)
+pot(b)
