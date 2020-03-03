@@ -3,4 +3,6 @@
 a<-rnorm(100)
 plot (a)
 b<-rnorm(50)
-pot(b)
+plot(b)
+c-rnorm(200)
+plot(c)
